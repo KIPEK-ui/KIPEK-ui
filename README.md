@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KIPEK-ui
 - 👀 I’m interested in Python Web Apps, Next.js and Prisma ORM with Postgressql
 - 🌱 I’m currently learning Python, JavaScript, HTML, CSS, TailwindCSS, Typescript, React, Next.js, NoSQL, MySQl, Postgressql
-- 💞️ I’m looking to collaborate on Python Web Apps, Data Apps, Website Dev (Full Stack, Frontend Next.js and Backend Python,Prisma)
+- 💞️ I’m looking to collaborate on Python Web Apps, Data Apps, Website Dev (Full Stack, Frontend Next.js,Prismic and Backend Python,Prisma,Postgresql)
 - 📫 How to reach me just send me a message here""
 
 - ⚡ Fun fact: I am an Engineer
